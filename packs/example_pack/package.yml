@@ -1,0 +1,7 @@
+enforce_dependencies: true
+dependencies:
+- "."
+
+enforce_privacy: true
+enforce_architecture: true
+layer: domain

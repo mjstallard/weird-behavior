@@ -1,0 +1,4 @@
+enforce_dependencies: false
+enforce_privacy: true
+enforce_architecture: false
+
